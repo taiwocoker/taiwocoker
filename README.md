@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a full time student at Microverse Inc.
-- 🌱 I'm currently learning Full-Stack Web Development (Ruby on Rails, JavaScript and React)
-- 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
+- 🔭 I am a graduate of Microverse Inc.
+- 🌱 I am proficient in Full-Stack Web Development (Ruby on Rails, JavaScript and React)
+- 👯 I am looking to collaborate on JavaScript, React and Ruby on Rails Project
 - 💬 Ask me about Software Development
 - 📫 How to reach me: [Twitter](https://twitter.com/SelloCoker), [Linkedin](https://www.linkedin.com/in/taiwo-coker)
 - 😄 Pronouns: She/Her
